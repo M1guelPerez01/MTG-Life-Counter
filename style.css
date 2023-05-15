@@ -1,0 +1,93 @@
+header {
+	text-align: center;
+	font-size: 40px;
+	padding: 10px;
+}
+
+#container {
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.right { 
+	float: right;
+	width: 42.5%;
+	margin: 20px 5% 0 2.5%;	
+}
+
+.left {
+	float: left;
+	width: 42.5%;
+	margin: 20px 2.5% 0 5%;
+}
+
+label {
+	display: block;
+	margin: 0 0 20px;
+	padding: 5px 0;
+	background-color: yellow;
+}
+
+#P1Life {
+	background-color: #EEE;
+	border: 1px solid #999;
+	border-bottom: 1px solid #BBB;
+	padding: 8px 0;
+	text-align: center;
+	text-shadow: 0 1px 0 #EEE;
+}
+
+#P1LifeTotal {
+	text-align: center;
+	font-size: 2em;
+
+}
+
+#P1LifeUp {
+  display: block;
+	text-align: center;
+	border-bottom: 1px solid #999;
+	padding: 10px 0;
+  color: blue;
+}
+
+#P1LifeDown {
+  display: block;
+	text-align: center;
+	border-top: 1px solid #999;
+	padding: 10px 0;
+  color: red;
+}
+
+#P2Life {
+	background-color: #EEE;
+	border: 1px solid #999;
+	border-bottom: 1px solid #BBB;
+	padding: 8px 0;
+	text-align: center;
+	text-shadow: 0 1px 0 #EEE;
+}
+
+#P2LifeTotal {
+	text-align: center;
+	font-size: 2em;
+
+}
+
+#P2LifeUp {
+  display: block;
+	text-align: center;
+	border-bottom: 1px solid #999;
+	padding: 10px 0;
+  color: blue;
+
+}
+
+#P2LifeDown {
+  display: block;
+	text-align: center;
+	border-top: 1px solid #999;
+	padding: 10px 0;
+  color: red;
+
+}
